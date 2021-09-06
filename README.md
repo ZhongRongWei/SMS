@@ -37,16 +37,15 @@
 ### 项目截图 (`管理员身份登录`)
 - *用户登录页面*
 
-![](https://raw.githubusercontent.com/YUbuntu0109/SSM-SMS/master/demonstration_picture/SMS-Login-view.PNG)
+![](https://github.com/ZhongRongWei/SMS/blob/master/demonstration_picture/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.JPG)
 
 - *欢迎页面*
 
 ![](https://github.com/ZhongRongWei/SMS/blob/master/demonstration_picture/%E6%AC%A2%E8%BF%8E%E9%A1%B5%E9%9D%A2.JPG)
 
-
 - *学生信息管理页面*
 
-![](https://raw.githubusercontent.com/YUbuntu0109/SSM-SMS/master/demonstration_picture/SMS-StudentInfo-view.PNG)
+![](https://github.com/ZhongRongWei/SMS/blob/master/demonstration_picture/%E5%AD%A6%E7%94%9F%E7%AE%A1%E7%90%86.JPG)
 
 - *教师信息管理页面*
 
@@ -77,7 +76,7 @@
 
 ### 项目截图 (`学生身份登录`)
 - *学生仅具有学生信息管理模块的查询及添加信息的权限*
-![](https://github.com/ZhongRongWei/SMS/blob/master/demonstration_picture/%E5%AD%A6%E7%94%9F%E7%AE%A1%E7%90%86.JPG)
+![](https://github.com/ZhongRongWei/SMS/blob/master/demonstration_picture/%E5%AD%A6%E7%94%9F%E7%99%BB%E5%BD%95.JPG)
 
 
 ### 项目结构
