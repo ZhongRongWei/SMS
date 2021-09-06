@@ -1,17 +1,17 @@
 ### 项目概述
 :+1:*学生管理系统 : 对学生各种信息进行日常管理，如查询、修改、增加、删除等
 
-主要功能 ：
-一、可以对学生、教师、班级、年级、管理员进行如下操作
-(1).根据名字查询
-(2).添加
-(3).修改
-(4).删除
-二、修改登录密码
-三、支持对学生、教师信息按班级名称分页显示、对班级信息按年级名称分页显示
+主要功能 ：  
+一、可以对学生、教师、班级、年级、管理员进行如下操作  
+(1).根据名字查询  
+(2).添加  
+(3).修改  
+(4).删除  
+二、修改登录密码  
+三、支持对学生、教师信息按班级名称分页显示、对班级信息按年级名称分页显示  
 
 其他功能 ：便捷的导航菜单和标签页、验证码安全登录、提交前验证信息
-!*
+
 
 :key:*数据库中默认的管理员身份信息 : 账户名 : `钟荣伟` , 密码 `123`*
 
@@ -170,7 +170,7 @@ mapper/
 ```
 
 #### 数据库ER图
-![](https://raw.githubusercontent.com/YUbuntu0109/SSM-SMS/master/demonstration_picture/SMS-Database-ER.png)
+![](https://github.com/ZhongRongWei/SMS/blob/master/demonstration_picture/ER%E5%9B%BE.JPG)
 
 #### Jar包依赖关系图
 ![](https://raw.githubusercontent.com/YUbuntu0109/SSM-SMS/master/demonstration_picture/SMS-Jar-dependency.png)
