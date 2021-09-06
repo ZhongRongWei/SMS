@@ -39,13 +39,10 @@
 
 ![](https://raw.githubusercontent.com/YUbuntu0109/SSM-SMS/master/demonstration_picture/SMS-Login-view.PNG)
 
-- *系统主页面*
+- *欢迎页面*
 
-![](https://raw.githubusercontent.com/YUbuntu0109/SSM-SMS/master/demonstration_picture/SSM-Main-view.PNG)
+![](https://github.com/ZhongRongWei/SMS/blob/master/demonstration_picture/%E6%AC%A2%E8%BF%8E%E9%A1%B5%E9%9D%A2.JPG)
 
-- *管理员信息管理页面*
-
-![](https://raw.githubusercontent.com/YUbuntu0109/SSM-SMS/master/demonstration_picture/SSM-AdminInfo-view.PNG)
 
 - *学生信息管理页面*
 
@@ -53,29 +50,34 @@
 
 - *教师信息管理页面*
 
-![](https://raw.githubusercontent.com/YUbuntu0109/SSM-SMS/master/demonstration_picture/SMS-TeacherInfo-view.PNG)
-
-- *年级信息管理页面*
-
-![](https://raw.githubusercontent.com/YUbuntu0109/SSM-SMS/master/demonstration_picture/SMS-GradeInfo-view.PNG)
+![](https://github.com/ZhongRongWei/SMS/blob/master/demonstration_picture/%E6%95%99%E5%B8%88%E7%AE%A1%E7%90%86.JPG)
 
 - *班级信息管理页面*
 
-![](https://raw.githubusercontent.com/YUbuntu0109/SSM-SMS/master/demonstration_picture/SMS-ClassInfo-view.PNG)
+![](https://github.com/ZhongRongWei/SMS/blob/master/demonstration_picture/%E7%8F%AD%E7%BA%A7%E7%AE%A1%E7%90%86.JPG)
+
+- *年级信息管理页面*
+
+![](https://github.com/ZhongRongWei/SMS/blob/master/demonstration_picture/%E5%B9%B4%E7%BA%A7%E7%AE%A1%E7%90%86.JPG)
+
+
+- *管理员信息管理页面*
+
+![](https://github.com/ZhongRongWei/SMS/blob/master/demonstration_picture/%E7%AE%A1%E7%90%86%E5%91%98.JPG)
 
 - *个人信息管理页面*
 
-![](https://raw.githubusercontent.com/YUbuntu0109/SSM-SMS/master/demonstration_picture/SMS-ModifyPwd-view.PNG)
+![](https://github.com/ZhongRongWei/SMS/blob/master/demonstration_picture/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86.JPG)
 
 
 ### 项目截图 (`教师身份登录`)
 - *教师仅具有学生信息管理模块的所有权限,且在教师信息管理模块中只具有查询及添加信息的权限*
-![](https://raw.githubusercontent.com/YUbuntu0109/SSM-SMS/master/demonstration_picture/SMS-Teacher-permission.PNG)
+![](https://github.com/ZhongRongWei/SMS/blob/master/demonstration_picture/%E6%95%99%E5%B8%88%E7%99%BB%E5%BD%95.JPG)
 
 
 ### 项目截图 (`学生身份登录`)
 - *学生仅具有学生信息管理模块的查询及添加信息的权限*
-![](https://raw.githubusercontent.com/YUbuntu0109/SSM-SMS/master/demonstration_picture/SMS-Student-permission.PNG)
+![](https://github.com/ZhongRongWei/SMS/blob/master/demonstration_picture/%E5%AD%A6%E7%94%9F%E7%AE%A1%E7%90%86.JPG)
 
 
 ### 项目结构
@@ -173,5 +175,5 @@ mapper/
 ![](https://github.com/ZhongRongWei/SMS/blob/master/demonstration_picture/ER%E5%9B%BE.JPG)
 
 #### Jar包依赖关系图
-![](https://raw.githubusercontent.com/YUbuntu0109/SSM-SMS/master/demonstration_picture/SMS-Jar-dependency.png)
+![](https://github.com/ZhongRongWei/SMS/blob/master/demonstration_picture/jar%E5%8C%85%E4%BE%9D%E8%B5%96%E5%9B%BE.jpg)
 
